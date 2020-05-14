@@ -1,0 +1,686 @@
+@media only screen and (max-width: 1600px) {
+
+	.row {
+		padding: 0 25px;
+	}
+
+	/*-- Header --*/
+
+	.h1_wrapp {
+	    padding: 20px 0;
+	}
+
+	/*-- /Header --*/
+
+	/*-- Section 1 --*/
+
+	.bridge_pill {
+		min-width: 323px;
+		font-size: 21px;
+		line-height: 28px;
+	}
+
+	/*-- /Section 1 --*/
+
+}
+
+@media only screen and (max-width: 1500px) {
+
+/*-- Section 5 --*/
+
+.thumb_3 .image_wrapp {
+    height: 201px;
+    width: 354px;
+    margin: 10px auto;
+}
+
+.thumb_3 .image_wrapp .img_box {
+    height: 176px;
+    width: 323px;
+    top: 11px;
+    left: 16px;
+}
+
+/*-- /Section 5 --*/
+
+}
+
+@media only screen and (max-width: 1240px) {
+
+h1 {
+    font-size: 54px;
+    line-height: 72px;
+}
+
+/*-- Section 1 --*/
+
+.logo_1 {
+    max-width: 418px;
+}
+
+.logo_2 {
+    max-width: 246px;
+}
+
+.h1_wrapp {
+    padding: 42px 0;
+}
+
+.time {
+    font-size: 65px;
+}
+
+.buttons_wrapp {
+    margin: 27px auto 60px auto;
+}
+
+.bridge_pill {
+	min-width: 256px;
+	padding: 20px 10px 28px 10px;
+}
+
+/*-- /Section 1 --*/
+
+/*-- Section 5 --*/
+
+.thumb_3 {
+    width: calc(50% - 30px);
+}
+
+/*-- /Section 5 --*/
+
+}
+
+@media only screen and (max-width: 1024px) {
+
+/*-- Section 1 --*/
+
+h1 {
+    font-size: 45px;
+}
+
+.logo_1 {
+    max-width: 327px;
+}
+
+.logo_2 {
+    max-width: 176px;
+    right: 21%;
+}
+
+.h1_wrapp {
+    padding: 26px 0;
+}
+
+.time {
+    font-size: 56px;
+}
+
+.bridge_pill {
+    min-width: 215px;
+    padding: 17px 10px 24px 10px;
+    font-size: 17px;
+    line-height: 23px;
+}
+
+/*-- /Section 1 --*/
+
+/*-- Section 2 --*/
+
+.sect_2 {
+    padding: 50px 0;
+}
+
+.title_wrapp h2 {
+    padding-bottom: 10px;
+}
+
+.items_thumbs {
+    margin: 26px 0;
+}
+
+.item_thumb {
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px 0 10px 80px;
+}
+
+.left_grad {
+    width: 150px;
+}
+
+.right_grad {
+    width: 150px;
+}
+
+/*-- /Section 2 --*/
+
+/*-- Footer --*/
+
+.footer_row .left {
+    width: 100%;
+    padding: 0;
+    text-align: center;
+}
+
+.footer_row .right {
+    width: 100%;
+    padding: 0 0 10px 0;
+    text-align: center;
+}
+
+.corp p {
+    font-size: 14px;
+    line-height: 25px;
+}
+
+.soc_links_2 {
+    justify-content: center !important;
+    -webkit-justify-content: center !important;
+}
+
+/*-- /Footer --*/
+
+}
+
+@media only screen and (max-width: 900px) {
+
+h1 {
+    font-size: 38px;
+    line-height: 64px;
+}
+
+h2 {
+    font-size: 32px;
+    line-height: 40px;
+}
+
+/*-- Header --*/
+
+.header_row {
+    padding: 10px 0;
+}
+
+.soc_links {
+	justify-content: flex-start;
+    -webkit-justify-content: flex-start;
+}
+
+/*-- /Header --*/
+
+/*-- Section 1 --*/
+
+.logo_1 {
+    max-width: 258px;
+}
+
+.logo_2 {
+    max-width: 155px;
+}
+
+.time {
+    font-size: 46px;
+}
+
+.video_wrapp {
+    width: 402px;
+    height: 228px;
+}
+
+.video_wrapp .img_box {
+    width: 367px;
+    height: 200px;
+    top: 12px;
+    left: 18px;
+}
+
+.buttons_wrapp {
+    margin: 20px auto 45px auto;
+}
+
+.bridge_pill {
+    min-width: 178px;
+    padding: 13px 10px 17px 10px;
+    font-size: 14px;
+    line-height: 23px;
+}
+
+/*-- /Section 1 --*/
+
+/*-- Section 3 --*/
+
+.thumb_1 {
+    width: 50%;
+}
+
+/*-- /Section 3 --*/
+
+/*-- Section 4 --*/
+
+.panda {
+    bottom: 0;
+    left: 0;
+    max-height: 106%;
+}
+
+/*-- /Section 4 --*/
+
+/*-- Section 5 --*/
+
+.thumb_3 .image_wrapp {
+    height: 176px;
+    width: 300px;
+}
+
+.thumb_3 .image_wrapp .img_box {
+    height: 155px;
+    width: 283px;
+    top: 9px;
+    left: 9px;
+}
+
+/*-- /Section 5 --*/
+
+}
+
+@media only screen and (max-width: 800px) {
+
+/*-- Section 4 --*/
+
+.sect_4 {
+    padding: 62px 0 30px 0;
+}
+
+.two_cols {
+	position: relative;
+}
+
+.two_cols .left {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.two_cols .right {
+	position: relative;
+	z-index: 2;
+}
+
+/*-- /Section 4 --*/
+
+}
+
+@media only screen and (max-width: 767px) {
+
+.wrapper {
+    padding-top: 50px;
+}
+
+#header {
+    background-color: #000;
+	width: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+
+/*-- Section 1 --*/
+
+.h1_wrapp {
+    padding: 15px 0;
+}
+
+/*-- /Section 1 --*/
+
+/*-- Section 3 --*/
+
+.sect_3 {
+    padding: 60px 0 75px 0;
+}
+
+.title_wrapp p {
+    padding: 10px 0;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.thumb_1 .circle_box {
+    margin: 20px auto;
+}
+
+/*-- /Section 3 --*/
+
+/*-- Section 6 --*/
+
+.sect_6 {
+    padding: 60px 0 70px 0;
+}
+
+/*-- /Section 6 --*/
+
+}
+
+@media only screen and (max-width: 700px) {
+
+/*-- Header --*/
+
+.soc_links li {
+    padding: 5px 10px;
+    line-height: 10px;
+}
+
+/*-- /Header --*/
+
+/*-- Section 1 --*/
+
+.logo_1 {
+    max-width: 182px;
+}
+
+.logo_2 {
+    max-width: 103px;
+    right: 25%;
+}
+
+h1 {
+    font-size: 28px;
+    line-height: 45px;
+}
+
+.time {
+    font-size: 36px;
+}
+
+.bridge_pill {
+	min-width: 148px;
+    font-size: 14px;
+    line-height: 14px;
+}
+
+.items_thumbs {
+    margin: 10px 0;
+}
+
+/*-- /Section 1 --*/
+
+/*-- Section 5 --*/
+
+.sect_5 {
+    padding: 55px 0 60px 0;
+}
+
+.thumbnails_3 {
+    margin: 6px 0;
+}
+
+.thumb_3 {
+    width: 100%;
+    margin: 15px 0;
+}
+
+/*-- /Section 5 --*/
+
+}
+
+@media only screen and (max-width: 600px) {
+
+.left_grad {
+	display: none;
+}
+
+.right_grad {
+	display: none;
+}
+
+/*-- Header --*/
+
+.soc_links li {
+    padding: 5px 5px;
+}
+
+/*-- /Header --*/
+
+/*-- Section 1 --*/
+
+h1 {
+    font-size: 25px;
+    line-height: 43px;
+}
+
+.time {
+    font-size: 31px;
+}
+
+.buttons_wrapp {
+    margin: 7px auto 27px auto;
+}
+
+.buttons_wrapp > div {
+    padding: 10px 5px;
+}
+
+.bridge_pill {
+    min-width: 126px;
+    padding: 12px 10px 14px 10px;
+    font-size: 12px;
+    line-height: 12px;
+}
+
+/*-- /Section 1 --*/
+
+/*-- Section 2 --*/
+
+.item_thumb {
+    padding: 5px 0 10px 69px;
+}
+
+.item_thumb p {
+    font-size: 16px;
+}
+
+/*-- /Section 2 --*/
+
+/*-- Section 4 --*/
+
+.two_cols {
+	margin: 18px 0;
+    padding: 18px 10px;
+}
+
+.item_thumb_2 > div:nth-child(1) {
+    width: 48px;
+}
+
+.item_thumb_2 > div:nth-child(2) {
+    width: calc(100% - 48px);
+}
+
+/*-- /Section 4 --*/
+
+/*-- Footer --*/
+
+.soc_links_2 li {
+    padding: 5px 13px;
+}
+
+/*-- /Footer --*/
+
+}
+
+@media only screen and (max-width: 560px) {
+
+h2 {
+    font-size: 27px;
+    line-height: 32px;
+}
+
+.title_wrapp p {
+    font-size: 18px;
+}
+
+/*-- Section 3 --*/
+
+.sect_3 {
+    padding-bottom: 50px;
+}
+
+.thumbnails_1 {
+    margin: 5px 0;
+}
+
+.thumb_1 {
+    width: 100%;
+    padding: 25px 0;
+}
+
+/*-- /Section 3 --*/
+
+}
+
+
+@media only screen and (max-width: 480px) {
+
+.row {
+    padding: 0 10px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 22px;
+}
+
+/*-- Header --*/
+
+.dropdown_select {
+    width: 140px;
+    margin: 4px 0;
+    padding: 0 5px;
+}
+
+.header_row .col_1 {
+    width: calc(100% - 150px);
+}
+
+.header_row .col_2 {
+    width: 150px;
+}
+
+.dropdown_box {
+    padding: 0 5px;
+}
+
+/*-- /Header --*/
+	
+}
+
+@media only screen and (max-width: 450px) {
+
+/*-- Section 1 --*/
+
+.video_wrapp {
+    width: 290px;
+    height: 228px;
+}
+
+.video_wrapp .img_box {
+    width: 271px;
+    height: 149px;
+    top: 38px;
+    left: 10px;
+}
+
+.buttons_wrapp {
+    justify-content: center;
+    -webkit-justify-content: center;
+}
+
+.buttons_wrapp > div {
+    width: 100%;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.bridge_pill {
+    min-width: 196px;
+    padding: 12px 10px 17px 10px;
+    font-size: 15px;
+    line-height: 29px;
+}
+
+/*-- /Section 1 --*/
+
+}
+
+
+@media only screen and (max-width: 400px) {
+
+/*-- Header --*/
+
+.dropdown_select .dropdown_box {
+    margin-top: -44px;
+}
+
+.soc_links li a {
+    width: 23px;
+}
+
+.soc_links li a img {
+	max-width: 100%
+}
+
+/*-- /Header --*/
+
+/*-- Section 1 --*/
+
+.logo_2 {
+    max-width: 103px;
+    right: 0;
+    top: -15px;
+}
+
+h1 {
+    font-size: 33px;
+    line-height: 51px;
+}
+
+/*-- /Section 1 --*/
+
+}
+
+@media only screen and (max-width: 360px) {
+
+/*-- Section 1 --*/
+
+.video_wrapp {
+    width: 282px;
+    height: 228px;
+}
+
+.video_wrapp .img_box {
+    width: 267px;
+    height: 146px;
+    top: 40px;
+    left: 8px;
+}
+
+/*-- /Section 1 --*/
+
+/*-- Section 5 --*/
+
+	.thumb_3 .image_wrapp {
+		height: 165px;
+		width: 281px;
+	}
+
+	.thumb_3 .image_wrapp .img_box {
+	    height: 146px;
+	    width: 265px;
+	    top: 8px;
+	    left: 7px;
+	}
+
+/*-- /Section 5 --*/
+
+}
